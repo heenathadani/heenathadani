@@ -1,7 +1,7 @@
 # Konnichiwa!! ⭐
 ## _This is Heena_. 
-### Areas of Interest - Game Development, Web Development 🐱‍🏍
+### Areas of Interest - AR/VR Development, WebXR, Web Development 🐱‍🏍
 ### You'll find me reading books or watching anime and dramas xD. 🎗
-### I know 4 languages - **Engline, Hindi, Japanese, Chinese.** ☮
-### I love cooking for others. 💤
-### Follow my Tech Stack in my Repositories, will be uploading my work, weekly and constantly!! U_U
+### Known Languages - **Engline, Hindi, Japanese, Chinese.** ☮
+### I love cooking. 💤
+### Follow my Tech Stack in Repositories section, will be uploading work, constantly!! U_U
