@@ -1,6 +1,6 @@
 # Konnichiwa!! ⭐
 ## _Heena behind the desk_. 
-### Areas of Interest - AR/VR Development, WebXR, Web Development 🐱‍🏍
+### Areas of Interest - AR/VR Development, Game Development 🐱‍🏍
 ### You'll find me reading books or watching anime and dramas xD. 🎗
 ### Known Languages - **Engline, Hindi, Japanese, Chinese.** ☮
 ### I love cooking. 💤
