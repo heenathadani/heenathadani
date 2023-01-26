@@ -9,11 +9,6 @@
 * I love cooking. 💤
 * Follow my Tech Stack in Repositories section, will be uploading work, constantly!! U_U
 
-
-## Connect With Me 🌟
-[E-mail](heenathadani26@gmail.com) &nbsp; &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/heena-thadani/) &nbsp; &nbsp; &nbsp; [Twitter](https://twitter.com/thadaniheena_)  
-<br>
-
 ### ⚙️ GitHub Analytics
 <p align="center">
 <a href="https://github.com/heenathadani">
@@ -21,3 +16,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heenathadani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## Connect With Me 🌟
+[E-mail](heenathadani26@gmail.com) &nbsp; &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/heena-thadani/) &nbsp; &nbsp; &nbsp; [Twitter](https://twitter.com/thadaniheena_)  
+<br>
