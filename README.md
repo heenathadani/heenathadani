@@ -13,3 +13,11 @@
 ## Connect With Me 🌟
 [E-mail](heenathadani26@gmail.com) &nbsp; &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/heena-thadani/) &nbsp; &nbsp; &nbsp; [Twitter](https://twitter.com/thadaniheena_)  
 <br>
+
+### ⚙️ GitHub Analytics
+<p align="center">
+<a href="https://github.com/heenathadani">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=heenathadani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heenathadani&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
