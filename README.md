@@ -1,4 +1,4 @@
-# Konnichiwa!! ⭐, I'm Heena Thadani! 👋
+# Hi, I'm Heena Thadani! 👋
 * 💻 Game Development Intern at PetalsWorld Studio, Singapore (November'2022 - present).
 * 💻 Former Mitacs Globallink Research Intern at University of New Brunswick, Fredericton, Canada (June - August'2022).
 * 🐱‍ Areas of Interests - Game Development, AR/VR Development
